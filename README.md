@@ -12,4 +12,5 @@
 
 
 Геймлпей:
-![image](https://github.com/HAR4A/FPS-shooter/assets/150113486/0e0b9609-1fb9-4da2-8431-bed348b1d23a)
+![image](https://github.com/HAR4A/FPS-shooter/assets/150113486/566549c6-3ddb-4057-a86e-1e7b1d0e905e)
+
